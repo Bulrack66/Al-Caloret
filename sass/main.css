@@ -579,8 +579,8 @@ button:hover {
   display: flex;
   overflow: hidden;
   z-index: 10002;
-  -webkit-animation: 5s ease-in-out 5s 1 both timerloader;
-          animation: 5s ease-in-out 5s 1 both timerloader;
+  -webkit-animation: 3s ease-in-out 3s 1 both timerloader;
+          animation: 3s ease-in-out 3s 1 both timerloader;
   margin: -8px;
 }
 
