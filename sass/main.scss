@@ -1,0 +1,36 @@
+// color //
+@import "./utils/variables";
+
+// fonctions //
+@import "./utils/functions";
+
+// mixins //
+@import "./utils/mixins";
+
+// base //
+@import "./base/base";
+
+// pages //
+@import "./pages/welc";
+@import "./pages/meals";
+
+// extensions //
+@import "./utils/extensions";
+
+// typography //
+@import "./base/typography";
+
+// butons //
+@import "./components/buttons";
+
+// nav //
+@import "./layouts/loader";
+
+// header //
+@import "./layouts/header";
+
+// footer //
+@import "./layouts/footer";
+
+// form //
+@import "./layouts/form";

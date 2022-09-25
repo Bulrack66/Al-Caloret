@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Shrikhand&display=swap');
+
+* {
+    font-family: roboto, sans-serif;
+}
+
+.about h2,h1 {
+    font-family: shrikhand, sans-serif;
+}
+
+h2{
+    font-size: 20px;
+}
+
+.under-lign {
+        &::after {
+            content: "";
+            width: 65px;
+            height: 4px;
+            display: flex;
+            background-color: $colour-tertiary;
+            margin-top: 5px;
+          }
+    }
+
+.top-meal h1 {
+    font-family: shrikhand, sans-serif;
+}

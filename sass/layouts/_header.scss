@@ -1,0 +1,50 @@
+// * //
+h1 {
+    margin-top: 22px;
+    font-size: 29px;
+    margin-left: 15px;
+}
+body {
+    position: relative;
+    transition: 0s;
+    margin: 4px;
+}
+// first page //
+.top-meal {
+    display: flex;
+    justify-content: space-between;
+}
+.presentation {
+    display:flex;
+    justify-content: center;
+    #alcaloret {
+    width: 102%;
+    height: 300px;
+    object-fit: cover;
+    margin: 0px -5px 0px -5px;
+    }
+}
+
+// second page //
+#lanoteenchantee {
+    width: 102%;
+    height: 300px;
+    object-fit: cover;
+    margin: 0px -5px 0px -5px;
+}
+
+// thrid page //
+#alafrancaise {
+    width: 102%;
+    height: 300px;
+    object-fit: cover;
+    margin: 0px -5px 0px -5px;
+}
+
+// fourth page //
+#ledelicedessens {
+    width: 102%;
+    height: 300px;
+    object-fit: cover;
+    margin: 0px -5px 0px -5px;
+}
