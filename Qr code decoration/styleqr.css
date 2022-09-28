@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,300;0,400;1,100&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passions+Conflict&display=swap');
+* {
+    font-family: 'Passions Conflict', cursive;
+}
+
+.border-1 {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 15px;
+    row-gap: 15px;
+}
+
+.border-2 {
+    background: #a39287;
+    border: 5px #815D5F solid;
+    border-radius: 20px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+img {
+    width: 145px;
+    background: #815D5F;
+  }
+
+  p {
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+  }
