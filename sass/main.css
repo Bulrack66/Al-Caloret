@@ -184,7 +184,7 @@ a {
 .meal__description {
   display: flex;
   flex-direction: column;
-  flex-basis: 85%;
+  flex-basis: 95%;
   min-width: 0;
 }
 .meal h3 {
@@ -198,6 +198,10 @@ a {
   font-size: 15px;
   margin: 0 0 10px 15px;
   overflow: hidden;
+}
+.meal .price-mid {
+  display: flex;
+  justify-content: space-between;
 }
 
 .price {

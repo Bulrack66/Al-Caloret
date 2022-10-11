@@ -41,7 +41,7 @@
     &__description {
         display: flex;
         flex-direction: column;
-        flex-basis: 85%;
+        flex-basis: 95%;
         min-width: 0;
         }
         h3 {
@@ -55,6 +55,11 @@
             font-size: 15px;
             margin:0 0 10px 15px;
             overflow: hidden;
+        }
+        .price-mid{
+            display: flex;
+            justify-content: space-between;
+            
         }
     }
 
